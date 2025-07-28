@@ -6,6 +6,6 @@ class Test
 {
     public function test()
     {
-        echo 'Hello, world  pig.';
+        echo 'Hello, world  erre ';
     }
 }
