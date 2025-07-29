@@ -3,7 +3,7 @@
     "description": "event dat creat",
     "type": "library",
     "require": {
-        "php": "1.0"
+        "php": ">=7.1.0"
     },
     "require-dev": {
         "no": "yes",
