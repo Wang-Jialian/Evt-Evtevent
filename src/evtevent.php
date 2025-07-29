@@ -1,11 +1,9 @@
 <?php
-
 namespace Evtgame;
-
 class Evtevent
 {
     public function sayHello()
     {
-        echo 'Hello, world abc aa.';
+        echo 'Hello, world Aabc aa.';
     }
 }
