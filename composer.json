@@ -1,7 +1,7 @@
 {
     "name": "evtgame/evtevent",
     "description": "event dat creat",
-    "version": "1",
+    "version": "2",
     "homepage": "https://github.com/Wang-Jialian/Evtevent",
     "type": "library",
     "require": {
