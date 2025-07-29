@@ -1,13 +1,13 @@
 {
     "name": "evt/evtevent",
     "description": "event dat creat",
+    "homepage": "https://github.com/Wang-Jialian/Evt-Evtevent",
     "type": "library",
     "require": {
         "php": ">=7.1.0"
     },
     "require-dev": {
-        "no": "yes",
-        "laravel/slack-notification-channel": "1.0.0"
+        "phpunit/phpunit": "^7"
     },
     "license": "Apache-2.0",
     "autoload": {
