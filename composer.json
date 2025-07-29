@@ -2,10 +2,9 @@
     "name": "evtgame/evtevent",
     "description": "event dat creat",
     "version": "2",
-    "homepage": "https://github.com/Wang-Jialian/Evtevent",
+    "homepage": "https://github.com/Wang-Jialian/evtgame",
     "type": "library",
     "require": {
-        "another-vendor/package": "1.*",
         "php": ">=7.1.0"
     },
     "require-dev": {
