@@ -1,6 +1,7 @@
 {
     "name": "evt/evtevent",
     "description": "event dat creat",
+    "version": "1",
     "homepage": "https://github.com/Wang-Jialian/Evt-Evtevent",
     "type": "library",
     "require": {
