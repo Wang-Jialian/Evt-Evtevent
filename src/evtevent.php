@@ -4,6 +4,6 @@ class Evtevent
 {
     public function sayHello()
     {
-        echo 'Hello, world Aabc aa.';
+        echo 'Hello, world Aabc a aa.';
     }
 }
