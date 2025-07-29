@@ -1,6 +1,7 @@
 {
     "name": "evt/evtevent",
     "description": "event dat creat",
+    "repositories": [{"type":"composer","url":"my_server"},{"packagist":false}],
     "version": "1",
     "homepage": "https://github.com/Wang-Jialian/Evt-Evtevent",
     "type": "library",
