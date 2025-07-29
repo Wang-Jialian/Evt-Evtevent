@@ -1,6 +1,6 @@
 <?php
 
-namespace Evt;
+namespace Evtgame;
 
 class Evtevent
 {
