@@ -1,10 +1,10 @@
 <?php
 
-namespace Evt\Evtevent;
+namespace Evt;
 
-class Test
+class Evtevent
 {
-    public function test()
+    public function sayHello()
     {
         echo 'Hello, world  pig.';
     }
