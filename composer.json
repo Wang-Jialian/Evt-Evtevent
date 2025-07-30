@@ -13,7 +13,7 @@
             "role": "Developer"
         }
     ],    
-    "version": "V3.0.0",
+    "version": "3.0.0",
     "require": {
         "php": ">=8.0.0"
     },
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Evtgame\\Evtevent\\": "src/"
+            "Evtgame\\": "src/"
         }
     },
     "minimum-stability": "dev"
