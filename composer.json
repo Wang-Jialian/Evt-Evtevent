@@ -2,7 +2,7 @@
     "name": "evtgame/evtevent",
     "description": "event dat creat ab",
     "type": "library",
-    "keywords": ["dat","creat"],    
+    "keywords": ["game run dat","Program run dat"],    
     "homepage": "https://github.com/Wang-Jialian/evtevent",    
     "license": "MIT",
     "authors": [
@@ -13,7 +13,6 @@
             "role": "Developer"
         }
     ],    
-    "version": "4.0.0",
     "require": {
         "php": ">=8.0.0"
     },
